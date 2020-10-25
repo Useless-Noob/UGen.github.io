@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Useless-Noob.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-10-25T14:41:28.001Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Useless-Noob.github.io"/>
+    <link rel="self" href="https://Useless-Noob.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Useless-Noob.github.io/images/avatar.png</logo>
+    <icon>https://Useless-Noob.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[UGen Virus Killer Beta Support]]></title>
+        <id>https://Useless-Noob.github.io/post/ugen-beta-support/</id>
+        <link href="https://Useless-Noob.github.io/post/ugen-beta-support/">
+        </link>
+        <updated>2020-10-25T14:35:39.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="test">Test</h3>
+]]></content>
+    </entry>
+</feed>
